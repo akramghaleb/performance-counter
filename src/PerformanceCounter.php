@@ -1,6 +1,6 @@
 <?php
 
-namespace ClarkeTech\PerformanceCounter;
+namespace AkramGhaleb\PerformanceCounter;
 
 /**
  * Calculates the average iteration time for a given process

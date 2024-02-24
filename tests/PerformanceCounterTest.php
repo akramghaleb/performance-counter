@@ -1,8 +1,8 @@
 <?php
 
-namespace ClarkeTech\PerformanceCounter\Tests;
+namespace AkramGhaleb\PerformanceCounter\Tests;
 
-use ClarkeTech\PerformanceCounter\PerformanceCounter;
+use AkramGhaleb\PerformanceCounter\PerformanceCounter;
 use PHPUnit\Framework\TestCase;
 
 class PerformanceCounterTest extends TestCase
