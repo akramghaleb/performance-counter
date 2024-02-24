@@ -86,7 +86,7 @@ final class PerformanceCounter
     }
 
     /**
-     * change for version 1.1
+     * change for version 1.1.0 : Akram Ghaleb
      */
     public function getKeys(): array
     {
