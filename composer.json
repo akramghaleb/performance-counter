@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "AkramGhaleb\\PerformanceCounter":"src/"
+            "akramghaleb\\PerformanceCounter":"src/"
         }
     },
     "require": {},
