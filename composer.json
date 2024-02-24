@@ -1,0 +1,14 @@
+{
+    "name": "akramghaleb/performance-counter",
+    "description": "A development tool for monitoring application performance and debugging bottlenecks",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "akramghaleb",
+            "email": "46090581+akramghaleb@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
